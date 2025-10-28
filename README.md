@@ -13,9 +13,9 @@ If a trained model is not available, the system will automatically train the mod
 This project demonstrates the integration of machine learning with computer vision to create an interactive real-time application for digit recognition.
 
 <p align="center">
-  <img src="assets/demo-3.png" alt="Demo Preview" width="600">
+  <img src="assets/demo-3.png" alt="Demo Preview" width="full">
 </p>
 
 <p align="center">
-  <img src="assets/Complete.png" alt="Complete Overview" width="600">
+  <img src="assets/Complete.png" alt="Complete Overview" width="full">
 </p>
