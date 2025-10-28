@@ -11,3 +11,11 @@ In addition to the real-time classification, the project also generates several 
 If a trained model is not available, the system will automatically train the model on the MNIST dataset, display the training accuracy and loss, and save the trained model for future use.
 
 This project demonstrates the integration of machine learning with computer vision to create an interactive real-time application for digit recognition.
+
+<p align="center">
+  <img src="assets/demo-3.png" alt="Demo Preview" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/Complete.png" alt="Complete Overview" width="600">
+</p>
